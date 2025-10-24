@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+Lib/
+env/
+*.pyc
+__pycache__/
+*.dll
+*.pyd
+*.so
+__pycache__/
+# Torch and site-packages
+backend/emotional/Lib/site-packages/
